@@ -49,23 +49,10 @@ GitHub
 
 ## 📊 Visualizations
 
-### 1. Top 10 Best Batting Averages
 
-**Identified the players with the highest batting averages in the ICC Men's T20 World Cup 2024.**
 
-![Top 10 Best Batting Averages](Visualizations/top_10_batting_averages.png)
 
----
-
-### 2. Top 10 Best Bowling Averages
-
-**Analyzed the bowlers with the best bowling averages in the ICC Men's T20 World Cup 2024.**
-
-![Top 10 Best Bowling Averages](Visualizations/top_10_bowling_averages.png)
-
----
-
-### 3. Top 10 Run Scorers
+### 1. Top 10 Run Scorers
 
 **Compared the leading run scorers of the tournament.**
 
@@ -73,7 +60,7 @@ GitHub
 
 ---
 
-### 4. Top 10 Wicket Takers
+### 2. Top 10 Wicket Takers
 
 **Visualized the players who took the highest number of wickets.**
 
@@ -81,7 +68,7 @@ GitHub
 
 ---
 
-### 5. Matches Won by Each Team
+### 3. Matches Won by Each Team
 
 **Compared the number of matches won by each team during the tournament.**
 
@@ -89,7 +76,7 @@ GitHub
 
 ---
 
-### 6. Top 10 Six Hitters
+### 4. Top 10 Six Hitters
 
 **Identified the players who hit the most sixes.**
 
@@ -97,7 +84,7 @@ GitHub
 
 ---
 
-### 7. Runs vs Strike Rate
+### 5. Runs vs Strike Rate
 
 **Compared players' total runs with their batting strike rates.**
 
@@ -105,7 +92,7 @@ GitHub
 
 ---
 
-### 8. Best Bowling Economy Rates
+### 6. Best Bowling Economy Rates
 
 **Analyzed the bowlers with the best economy rates.**
 
